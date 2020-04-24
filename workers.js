@@ -16,9 +16,9 @@ const site_name = "Whr Edge Blog";
 const site_desc = "";
 
 // 资源文件 可能能用吧
-const highlight_css = "https://cn.tql.ink:4443/css/highlight.js/github.css";
-const highlight_main = "https://cn.tql.ink:4443/js/highlight.min.js";
-const highlight_pack = "https://cn.tql.ink:4443/js/highlight.pack.js";
+const highlight_css = "http://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/github.css";
+const highlight_main = "http://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/highlight.min.js‘;
+const highlight_pack = "http://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/highlight.pack.js";
 
 // Copyright
 const copyright = `&copy; 2019 ${site_name} | <a href="https://github.com/kasuganosoras/cloudflare-worker-blog" target="_blank">Github</a>`;
