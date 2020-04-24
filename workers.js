@@ -17,7 +17,7 @@ const site_desc = "";
 
 // 资源文件 可能能用吧
 const highlight_css = "http://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/github.css";
-const highlight_main = "http://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/highlight.min.js‘;
+const highlight_main = "http://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/highlight.min.js";
 const highlight_pack = "http://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/highlight.pack.js";
 
 // Copyright
