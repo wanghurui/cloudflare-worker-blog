@@ -21,8 +21,8 @@ const highlight_main = "https://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/hi
 const highlight_pack = "https://s-sh-1131-jsdeliver.oss.dogecdn.com/edge-blog/highlight.pack.js";
 
 
-// Copyright
-const copyright = `&copy; 2019 ${site_name} | <a href="https://github.com/kasuganosoras/cloudflare-worker-blog" target="_blank">Github</a>`;
+// 一言页脚
+const copyright = `<script src="https://m.mom1.cn/api/sp/api.js"></script>
 
 /* 配置到此结束 */
 
